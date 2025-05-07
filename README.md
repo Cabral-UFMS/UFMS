@@ -11,5 +11,5 @@ Aplicação desktop criada com PyQt5 que permite adicionar e remover tarefas em 
 
 1. Clone este repositório:
 ```bash
-git clone https://github.com/seu-usuario/gerenciador_tarefas.git
-cd gerenciador_tarefas
+git clone https://github.com/Cabral-UFMS/UFMS.git
+cd UFMS
